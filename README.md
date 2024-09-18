@@ -1,2 +1,2 @@
-(https://dev.to/envoy_/150-badges-for-github-pnk Ícones https://devicon.dev/)
+(https://dev.to/envoy_/150-badges-for-github-pnkhttps://devicon.dev/)
 
